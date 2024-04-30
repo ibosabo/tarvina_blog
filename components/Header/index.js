@@ -7,7 +7,7 @@ const Header = () => {
         <div className="flex items-center justify-center rounded-3xl text-headTextColor bg-mainColor h-20 text-5xl mt-6">
       Tarvina Blog
         </div>
-        <NavBar/>
+      
       </header>
     );
   }

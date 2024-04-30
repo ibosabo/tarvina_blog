@@ -17,7 +17,7 @@ const NavBar = () => {
           <div className='hidden md:block'>
             <div className='ml-4 flex items-center space-x-4'>
               {/* Link içindeki a tag'i stillerle güncellendi */}
-              <Link href="/">
+              <Link href="/Home">
 Home
               </Link>
             </div>
@@ -28,4 +28,4 @@ Home
   );
 }
 
-export default NavBar;
+export default NavBar;
